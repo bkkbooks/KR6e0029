@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0029/v1
 canonical_location: https://kanripo.org/bkk/KR6e0029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說菩薩本業經
   identifiers:
@@ -46,10 +46,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0029_000.yaml, hash: 'sha256:bd27c515ced6c6475a7cdbd0af8e85b46a008b499fd3f208a8bcb3dd9e466738'}
-  - {seq: 1, filename: KR6e0029_001.yaml, hash: 'sha256:5203d7878236a8fb0e220f4030cca4559a4306b17acb70ed7d89ce6ded97c31b'}
+  - {seq: 1, filename: KR6e0029_001.yaml, hash: 'sha256:0ffc637754a6d100e31f0f76a7ec73616f27f9df77a869219f9ae4915185d44a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0029_000.markers.yaml, hash: 'sha256:7099711321f62d13eb16547cfb6cfa7781647962996e0b8ecf103054d68eb9a8'}
-  - {seq: 1, role: markers, filename: assets/KR6e0029_001.markers.yaml, hash: 'sha256:3f7742405ef909abc2da8c0aa03bb7d1b51fc581bc13317de54cc56f524d4ebf'}
+  - {seq: 1, role: markers, filename: assets/KR6e0029_001.markers.yaml, hash: 'sha256:b49dfb981444b360790db0c03353464f4de97469da84721c8fdaaf9abcd7bd8f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -81,4 +81,7 @@ table_of_contents:
   label: 3 十地品
   type: mulu
   level: 1
-hash: sha256:2bf992436a77dde49bae782778ff0565618c433cb65df9b0d233bb7c5a736a54
+hash: sha256:7c5a42b92429ed6e554973a75aa84f56aac3e801d9e173974c2a1d2cf0330e9a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
